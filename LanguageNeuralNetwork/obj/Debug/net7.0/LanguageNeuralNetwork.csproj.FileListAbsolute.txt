@@ -1,0 +1,15 @@
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/bin/Debug/net7.0/LanguageNeuralNetwork
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/bin/Debug/net7.0/LanguageNeuralNetwork.deps.json
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/bin/Debug/net7.0/LanguageNeuralNetwork.runtimeconfig.json
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/bin/Debug/net7.0/LanguageNeuralNetwork.dll
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/bin/Debug/net7.0/LanguageNeuralNetwork.pdb
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.csproj.AssemblyReference.cache
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.AssemblyInfoInputs.cache
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.AssemblyInfo.cs
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.csproj.CoreCompileInputs.cache
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.dll
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/refint/LanguageNeuralNetwork.dll
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.pdb
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/LanguageNeuralNetwork.genruntimeconfig.cache
+/Users/fedirzhuk/Documents/Rider Projects/LanguageNeuralNetwork/LanguageNeuralNetwork/LanguageNeuralNetwork/obj/Debug/net7.0/ref/LanguageNeuralNetwork.dll
